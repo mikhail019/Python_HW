@@ -52,7 +52,3 @@ def test_shopping():
 
     finally:
         driver.quit()
-
-
-# Запуск теста
-test_shopping()
